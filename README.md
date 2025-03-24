@@ -4,7 +4,7 @@
 Build and deploy a personal **Portfolio Website** to showcase skills, projects, and contact details. The site should be interactive, mobile-friendly, and highlight both technical and soft skills with clean design.
 
 ## 🌐 Live Demo
-[View Portfolio Live](https://yourusername.github.io/your-repo-name/)  
+[View Portfolio Live](https://piyush-k-r.github.io/My-Portfolio/)  
 _Replace the URL above with your GitHub Pages deployed link._
 
 ## 🛠️ Features
@@ -18,7 +18,7 @@ _Replace the URL above with your GitHub Pages deployed link._
 ## 📁 Folder Structure
 
 ## 🚀 How to Run the Project Locally
-- 1. Clone the repository:
+- 1. Clone the repository: https://github.com/Piyush-k-r/My-Portfolio.git
  
   2. Open `index.html` in your browser.
 
