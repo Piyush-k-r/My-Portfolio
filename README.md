@@ -1,23 +1,46 @@
-# Responsive-personal_portfolio
-This repository contains the code for my personal portfolio website built using HTML, CSS, and JavaScript. The portfolio showcases my skills, projects, and accomplishments, providing a glimpse into my professional journey.
+# Portfolio Website - Piyush Kumar
 
-# Live Demo
+## 📌 Task Objective
+Build and deploy a personal **Portfolio Website** to showcase skills, projects, and contact details. The site should be interactive, mobile-friendly, and highlight both technical and soft skills with clean design.
 
+## 🌐 Live Demo
+[View Portfolio Live](https://yourusername.github.io/your-repo-name/)  
+_Replace the URL above with your GitHub Pages deployed link._
 
+## 🛠️ Features
+- Responsive design using HTML, CSS, and JavaScript.
+- Animated text using Typed.js for dynamic role display.
+- Smooth scroll animations with ScrollReveal.js.
+- Downloadable resume (PDF).
+- Google Sheets-integrated contact form for real-time submissions.
+- Organized skillset with icons (Technical and Soft Skills).
+- Project showcase with live preview links.
+## 📁 Folder Structure
 
-# Prerequisites
-Before you begin, ensure you have met the following requirements: 
+## 🚀 How to Run the Project Locally
+- 1. Clone the repository:
  
-Git must be installed on your operating system.
+  2. Open `index.html` in your browser.
 
-# Run Locally
-To run this project locally, run this command on your git bash:
+3. For contact form functionality:
+- Set up a Google Apps Script Web App.
+- Replace the script URL in `index.html` with your own.
 
-Linux and macOS:
+## 📌 Technologies Used
+- HTML5, CSS3, JavaScript
+- Boxicons, Devicon, Font Awesome
+- Typed.js
+- ScrollReveal.js
+- Google Sheets API (Apps Script)
 
-sudo git clone 
+## 📈 Future Improvements
+- Add a blog or update section.
+- Include more project showcases.
+- Add theme switcher (dark/light mode).
 
-Windows:
+## 🧑‍💻 Author
+[Piyush Kumar](https://www.linkedin.com/in/piyush-kumar-8365b6217/)  
+[GitHub Profile](https://github.com/Piyush-k-r)
 
-git clone 
-
+## 📜 License
+This project is licensed under the MIT License.
